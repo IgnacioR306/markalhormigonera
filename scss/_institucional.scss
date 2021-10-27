@@ -1,0 +1,24 @@
+$colorNav: #7D7D7D;
+$colorBody: #b9b7b7; 
+
+.sobreNosotros {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    background-color: $colorBody;
+}
+
+.nuestrosServicios {
+    background-color: $colorBody; 
+        h2 {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 200%;
+        text-align: center;
+        }
+        ul {
+        font-family: lato;
+        font-size: 120%;
+        text-align: center;
+        list-style: none;
+        }
+}

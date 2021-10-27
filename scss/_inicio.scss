@@ -1,0 +1,57 @@
+$colorNav: #7D7D7D;
+$colorBody: #b9b7b7; 
+
+main {
+    .infoQuienes {
+        h1 {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 200%;
+            margin: 5%;
+            text-align: center;
+            padding: 0%;
+            background-color: $colorNav;
+        }
+        h2 {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 200%;
+        margin: 5%;
+        text-align: center;
+        padding: 0%;
+        background-color: $colorNav;
+        }
+         p {
+            font-family: lato;
+            font-size: 150%;
+            text-align: center;
+            background-color: $colorNav;
+         }
+        background-color: $colorNav;
+        ul {
+            font-family: lato;
+            font-size: 120%;
+            text-align: center;
+            list-style: none;
+            }
+    }
+.nuestrosClientes {
+    font-family:'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 200%;
+}      
+.clientes {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 100%;
+    font-size: 150%;
+    background-color: $colorBody; 
+    p   {
+    font-size: 100%;
+    width: 100%;
+    background-color: $colorBody;
+    }
+}
+}
+
+.logo-clientes {
+    width: 16,6%;
+}

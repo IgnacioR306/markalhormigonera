@@ -1,0 +1,31 @@
+$colorNav: #7D7D7D;
+$colorBody: #b9b7b7; 
+
+#contacto {
+    h3 {
+        font-family:'Source Sans Pro', sans-serif;
+        text-align: center;
+        font-size: 200%;
+    }
+    h2 {
+        font-family: lato;
+        text-align: center;
+        font-size: 150%;
+    }
+}
+.socialMedia {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    width: 5%;
+    height: 50%;
+}
+
+.formulario {
+    h2 {
+        font-family:'Source Sans Pro', sans-serif;
+        text-align: center;
+        font-size: 200%;
+    }
+    background-color: $colorNav;
+}
